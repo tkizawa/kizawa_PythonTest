@@ -1,4 +1,2 @@
-print('a')
-print('ｂ')
-print('c')
+print('Hello world!!')
 quit()
